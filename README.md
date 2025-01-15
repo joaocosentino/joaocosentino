@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">An electronic engineer with eager to become AI and Data Scientist Expert</h3>
+<h3 align="center">An electronic Automotive engineer, also working with Data Science projects on the personal side and at work. with eager to become AI and Data Scientist Expert</h3>
 
 - 🌱 I’m currently engaged in a Computer Science MSc, my research line is focused on Digital Twin Models for Open Banking and Open Finance Risk Assessment**
 
